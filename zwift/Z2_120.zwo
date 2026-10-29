@@ -1,0 +1,11 @@
+<workout_file>
+    <author>Plan triatlon 2026-27</author>
+    <name>Z2_120</name>
+    <description>Z2 2h: 100 min a 68-72% FTP, 85-90 rpm.</description>
+    <sportType>bike</sportType>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.48" PowerHigh="0.66" Cadence="85"/>
+        <SteadyState Duration="6000" Power="0.7" Cadence="88"/>
+        <Cooldown Duration="600" PowerLow="0.62" PowerHigh="0.5" Cadence="85"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,16 @@
+<workout_file>
+    <author>Plan triatlon 2026-27</author>
+    <name>SS_3x10_75</name>
+    <description>Sweet spot 1h15: 3x10 min a 90% FTP (4 min suave), 15 min en Z2 y vuelta a la calma.</description>
+    <sportType>bike</sportType>
+    <workout>
+        <Warmup Duration="720" PowerLow="0.48" PowerHigh="0.68" Cadence="85"/>
+        <SteadyState Duration="600" Power="0.9" Cadence="90"/>
+        <SteadyState Duration="240" Power="0.55" Cadence="85"/>
+        <SteadyState Duration="600" Power="0.9" Cadence="90"/>
+        <SteadyState Duration="240" Power="0.55" Cadence="85"/>
+        <SteadyState Duration="600" Power="0.9" Cadence="90"/>
+        <SteadyState Duration="900" Power="0.7" Cadence="88"/>
+        <Cooldown Duration="600" PowerLow="0.62" PowerHigh="0.5" Cadence="85"/>
+    </workout>
+</workout_file>

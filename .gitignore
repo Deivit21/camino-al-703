@@ -1,0 +1,10 @@
+# Datos personales: nunca en este repositorio
+resumen-diario/data/
+resumen-diario/informes/
+resumen-diario/dash/
+fit/
+*.fit
+*.db
+__pycache__/
+*.pyc
+.env

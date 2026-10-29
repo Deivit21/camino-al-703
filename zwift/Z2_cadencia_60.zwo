@@ -1,0 +1,26 @@
+<workout_file>
+    <author>Plan triatlon 2026-27</author>
+    <name>Z2 cadencia 60min</name>
+    <description>Recuperacion activa en Z2 (~147 W con FTP 210). Bloque principal: 4x (7' a 88 rpm + 2' a 95-100 rpm + 1' suave a 85 rpm). Usa metronomo. Pulso por debajo de ~150, sensacion 3-4/10.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="Z2"/>
+        <tag name="Cadencia"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.48" PowerHigh="0.66" Cadence="85"/>
+        <SteadyState Duration="420" Power="0.70" Cadence="88"/>
+        <SteadyState Duration="120" Power="0.70" Cadence="97"/>
+        <SteadyState Duration="60" Power="0.66" Cadence="85"/>
+        <SteadyState Duration="420" Power="0.70" Cadence="88"/>
+        <SteadyState Duration="120" Power="0.70" Cadence="97"/>
+        <SteadyState Duration="60" Power="0.66" Cadence="85"/>
+        <SteadyState Duration="420" Power="0.70" Cadence="88"/>
+        <SteadyState Duration="120" Power="0.70" Cadence="97"/>
+        <SteadyState Duration="60" Power="0.66" Cadence="85"/>
+        <SteadyState Duration="420" Power="0.70" Cadence="88"/>
+        <SteadyState Duration="120" Power="0.70" Cadence="97"/>
+        <SteadyState Duration="60" Power="0.66" Cadence="85"/>
+        <Cooldown Duration="600" PowerLow="0.62" PowerHigh="0.50" Cadence="85"/>
+    </workout>
+</workout_file>

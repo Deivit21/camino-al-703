@@ -1,0 +1,17 @@
+{
+  "inicio_historial": "2025-12-20",
+  "ftp": 245,
+  "zonas_fc_carrera": [153, 162, 171, 180],
+  "zonas_fc_bici": [144, 160, 171, 180],
+  "banda_ref_carrera": [150, 160],
+  "excluir_actividades": {
+    "22893201940": "15/05/2026 «Series con loza»: el reloj lo llevaba un amigo."
+  },
+  "_notas": {
+    "zonas_fc_carrera": "Límite inferior de Z2..Z5 en ppm (LTHR 180, auto-detectado el 21/10/2026 con banda H9).",
+    "zonas_fc_bici": "Zonas de FC de Garmin (DEFAULT). En bici manda la potencia.",
+    "ftp": "Actualizar tras cada test de FTP; recalcula IF/TSS y zonas de potencia.",
+    "banda_ref_carrera": "Banda de FC para calcular el 'ritmo a FC de referencia' (eficiencia aeróbica).",
+    "excluir_actividades": "Id de actividad → motivo. report.py y export_dash.py las ignoran (comparaciones, VO2max, carga, marcas y panel)."
+  }
+}

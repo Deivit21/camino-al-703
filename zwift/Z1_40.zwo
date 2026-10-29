@@ -1,0 +1,11 @@
+<workout_file>
+    <author>Plan triatlon 2026-27</author>
+    <name>Z1_40</name>
+    <description>Recuperacion 40min: piernas sueltas, 50-58% FTP, 90 rpm.</description>
+    <sportType>bike</sportType>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.45" PowerHigh="0.55" Cadence="90"/>
+        <SteadyState Duration="1800" Power="0.56" Cadence="90"/>
+        <Cooldown Duration="300" PowerLow="0.55" PowerHigh="0.45" Cadence="90"/>
+    </workout>
+</workout_file>
