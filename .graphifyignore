@@ -1,0 +1,3 @@
+# Excluido del grafo de graphify
+resumen-diario/vendor/
+**/requirements.txt
